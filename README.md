@@ -5,6 +5,7 @@
  Actually Im a student. Currently exploring different languages and tools to become a developer. Although I haven't specialized yet, I feel drawn to **backend development** and enjoy learning
 
   <img align = "right" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  
 - 🌱 I’m currently learning: **The fundamentals of programming**
 - 🧩 Im interested in: **Backend development and databases**
 
