@@ -23,4 +23,4 @@
 ### 💬 Connect with Me
 
 - **Email**: andresbonilla47.ab@gmail.com
-- **LinkedIn**: [...]
+- **LinkedIn**: www.linkedin.com/in/alejandro-andres-bonilla-morales-66481b332
